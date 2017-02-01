@@ -1,5 +1,5 @@
 {
-  "name": "nativescript-timedatepicker-renet",
+  "name": "nativescript-timedatepicker",
   "version": "1.2.1",
   "description": "A NativeScript module providing native Android time and date pickers",
   "main": "timedatepicker-handler.js",
